@@ -13,11 +13,11 @@ Progettazione completa di una base di dati per la gestione delle aree protette i
 
 **File inclusi:**
 
-- 
+- Testo esame.pdf
 
--
+- Esame_Sistemi_Informativi_1.pdf
 
--
+- esamesia1trimarchi.sql
 
 **Strumenti utilizzati:**
 
